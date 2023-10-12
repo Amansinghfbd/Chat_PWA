@@ -1,0 +1,8 @@
+.wrapper{
+    height: 300px;
+    overflow: scroll;
+    
+}
+.wrapper::-webkit-scrollbar{
+    width: 0;
+}
